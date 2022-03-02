@@ -1,0 +1,98 @@
+﻿body, html {
+    height: 100%;
+    width: 100%;
+    margin: 0;
+    padding: 0;
+}
+/*.main-content {
+    display: flex;
+}*/
+.menu {
+    text-align: left;
+    background-image: url("beach.jpg");
+    width: 25%;
+    height: 100%;
+}
+.data {
+    font-weight: bold;
+}
+.content {
+    text-align: left;
+    float: left;
+    position: relative;
+    left: 25%;
+    width: 75%;
+    height: 100%;
+    bottom: 100%;
+    /*bottom: 650px;
+    right: 900px;*/
+    /*background: #0404B4;
+    background: background: -webkit-linear-gradient(-90deg, #0404B4, #C8FE2E);
+    background: linear-gradient(-90deg, #0404B4, #C8FE2E);*/
+    color: black;
+}
+.main-content {
+    background: #0404B4;
+    /*background: -webkit-linear-gradient(-90deg, #0404B4, #C8FE2E);
+    background: linear-gradient(-90deg, #0404B4, #C8FE2E);*/
+    position: relative;
+    bottom: 27px;
+    /*height: 50%;*/
+}
+    /*footer {
+    color: white;
+    background: black;
+    margin: 0;
+}
+*/
+    .Pirate-King {
+    width: 200px;
+    height: 160px;
+    float: left;
+}
+h1 {
+    font-family: Arial;
+    font-size: 40px;
+    font-weight: bold;
+    text-align: left;
+}
+.Luffy {
+    position: relative;
+    left: 30%;
+    width: 500px;
+    height: 320px;
+    bottom: 150px;
+    border-style: inset;
+}
+.list {
+    font-weight: 500;
+    font-size: 36px;
+    padding-top: 130px;
+}
+
+.final {
+    color: white;
+    background: black;
+    position: relative;
+    bottom: -53px;
+    font-size: 22px;
+    
+}
+a {
+    position: relative;
+    left: 50px;
+    font-size: 24px;
+    /*text-align: center;*/
+    font-family: Cambria, Cochin, Georgia, Times, Times New Roman, serif;
+}
+.logo {
+    float: right;
+    width: 200px;
+    height: 60px;
+    position: relative;
+    bottom: 10px;
+    right: 20px;
+}
+#special-word{
+    color: white;
+}
